@@ -1,0 +1,7 @@
+2
+John 3 9
+Mr._Brown 4 12
+Alice 6 20
+Jack 9 18
+God 18 12
+GiGi 23 10

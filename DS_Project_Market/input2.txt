@@ -1,0 +1,16 @@
+insert D a 1
+insert C b 1
+insert B c 1
+insert A d 1
+insert E e 1
+insert F f 1
+insert G g 1
+sort
+buy d
+sort
+buy E
+sort
+buy f
+sort
+buy b
+sort

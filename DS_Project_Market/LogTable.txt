@@ -1,0 +1,5 @@
+insert 5
+search 3 1
+buy 4 1
+nodeCount 2
+treeHeight 2

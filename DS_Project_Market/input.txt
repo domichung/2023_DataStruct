@@ -1,0 +1,586 @@
+insert Chair Mark789 50
+insert Lamp Lily22 120
+buy CD
+insert CD David33 280
+search CD
+insert Chair Jenny456 55
+insert Lamp Kevin77 150
+search Chair
+buy Chair
+buy Lamp
+search Desk
+insert Desk Sophia89 300
+insert Desk Mike44 280
+search Desk
+sort
+buy Desk
+sort
+insert Shirt Paul99 25
+insert Shoes Rachel55 80
+buy CD
+insert CD Oliver22 230
+search CD
+insert Shirt Lisa33 20
+insert Shoes Ethan88 70
+search Shirt
+buy Shirt
+buy Shoes
+search Hat
+insert Hat Mia77 15
+insert Hat Jake11 18
+search Hat
+sort
+buy Hat
+sort
+insert Table Tony66 200
+insert Refrigerator Cindy90 1000
+buy CD
+insert CD Patrick25 260
+search CD
+insert Table Grace09 180
+insert Refrigerator Sam76 950
+search Table
+buy Table
+buy Refrigerator
+search Sofa
+insert Sofa Emma55 350
+insert Sofa Daniel88 320
+search Sofa
+sort
+buy Sofa
+sort
+insert Watch Noah11 180
+insert Necklace Zoe44 120
+buy CD
+insert CD Emily66 240
+search CD
+insert Watch Liam33 200
+insert Necklace Ava77 110
+search Watch
+buy Watch
+buy Necklace
+search Ring
+insert Ring Benjamin99 90
+insert Ring Harper22 80
+search Ring
+sort
+buy Ring
+sort
+insert Microwave Stella08 80
+insert Blender Leo55 40
+buy CD
+insert CD Grace33 220
+search CD
+insert Microwave Chloe44 75
+insert Blender Owen88 35
+search Microwave
+buy Microwave
+buy Blender
+search CoffeeMaker
+insert CoffeeMaker Mia99 60
+insert CoffeeMaker Jack77 55
+search CoffeeMaker
+sort
+buy CoffeeMaker
+sort
+insert Backpack Lucas33 40
+insert Umbrella Lily66 20
+buy CD
+insert CD Jackson11 200
+search CD
+insert Backpack Madison44 35
+insert Umbrella Aiden99 18
+search Backpack
+buy Backpack
+buy Umbrella
+search Wallet
+insert Wallet Sofia22 25
+insert Wallet Henry77 15
+search Wallet
+sort
+buy Wallet
+sort
+insert Bed Alex88 500
+insert Mattress Ella11 300
+buy CD
+insert CD Leo44 280
+search CD
+insert Bed Ava88 480
+insert Mattress Noah33 280
+search Bed
+buy Bed
+buy Mattress
+search Pillow
+insert Pillow Grace66 15
+insert Pillow Carter55 12
+search Pillow
+sort
+buy Pillow
+sort
+insert Fan Victoria90 30
+insert AirConditioner Ethan99 300
+buy CD
+insert CD Mia55 250
+search CD
+insert Fan Aria22 25
+insert AirConditioner Logan11 280
+search Fan
+buy Fan
+buy AirConditioner
+search Heater
+insert Heater Jayden33 40
+insert Heater Emma88 35
+search Heater
+sort
+buy Heater
+sort
+insert CarSeat Lucy11 80
+insert Stroller Owen33 120
+buy CD
+insert CD Ava33 200
+search CD
+insert CarSeat Jackson88 75
+insert Stroller Harper99 110
+search CarSeat
+buy CarSeat
+buy Stroller
+search BabyMonitor
+insert BabyMonitor William22 45
+insert BabyMonitor Mia88 40
+search BabyMonitor
+sort
+buy BabyMonitor
+sort
+insert Printer Sophia77 80
+insert Scanner James11 60
+buy CD
+insert CD Olivia55 230
+search CD
+insert Printer Benjamin33 70
+insert Scanner Abigail99 50
+search Printer
+buy Printer
+buy Scanner
+search FaxMachine
+insert FaxMachine Noah88 45
+insert FaxMachine Emma33 40
+search FaxMachine
+sort
+buy FaxMachine
+sort
+insert Guitar Mia11 150
+insert Piano Lucas33 800
+buy CD
+insert CD Amelia22 220
+search CD
+insert Guitar Henry88 120
+insert Piano Ava33 750
+search Guitar
+buy Guitar
+buy Piano
+search Violin
+insert Violin Oliver11 100
+insert Violin Sophia44 90
+search Violin
+sort
+buy Violin
+sort
+insert Keyboard Emily88 80
+insert Mouse Liam22 30
+buy CD
+insert CD Olivia11 240
+search CD
+insert Keyboard Noah44 65
+insert Mouse Ava77 25
+search Keyboard
+buy Keyboard
+buy Mouse
+search Monitor
+insert Monitor Mia33 120
+insert Monitor Ethan11 100
+search Monitor
+sort
+buy Monitor
+sort
+insert Headphones Lily99 50
+insert Microphone Owen44 40
+buy CD
+insert CD Amelia55 210
+search CD
+insert Headphones James22 45
+insert Microphone Emma11 35
+search Headphones
+buy Headphones
+buy Microphone
+search Speaker
+insert Speaker Noah99 60
+insert Speaker Ava88 55
+search Speaker
+sort
+buy Speaker
+sort
+insert Television Olivia33 500
+insert Soundbar Leo88 120
+buy CD
+insert CD Sophia11 230
+search CD
+insert Television Jackson33 480
+insert Soundbar Harper44 100
+search Television
+buy Television
+buy Soundbar
+search Projector
+insert Projector Mia11 300
+insert Projector Ethan88 280
+search Projector
+sort
+buy Projector
+sort
+insert Refrigerator William11 800
+insert Dishwasher Mia77 300
+buy CD
+insert CD Lucas33 260
+search CD
+insert Refrigerator Olivia22 750
+insert Dishwasher Noah11 280
+search Refrigerator
+buy Refrigerator
+buy Dishwasher
+search WashingMachine
+insert WashingMachine Ava88 400
+insert WashingMachine Liam33 350
+search WashingMachine
+sort
+buy WashingMachine
+sort
+insert Blender Emma11 40
+insert Toaster Liam88 25
+buy CD
+insert CD Olivia33 210
+search CD
+insert Blender Ava22 35
+insert Toaster Noah44 20
+search Blender
+buy Blender
+buy Toaster
+search Mixer
+insert Mixer Sophia11 50
+insert Mixer Ethan88 45
+search Mixer
+sort
+buy Mixer
+sort
+insert VacuumCleaner Lily11 80
+insert Iron Noah33 30
+buy CD
+insert CD Olivia88 240
+search CD
+insert VacuumCleaner Mia22 70
+insert Iron Jackson44 25
+search VacuumCleaner
+buy VacuumCleaner
+buy Iron
+search Steamer
+insert Steamer Ava33 40
+insert Steamer Henry88 35
+search Steamer
+sort
+buy Steamer
+sort
+insert CoffeeMaker Lily11 60
+insert Kettle Ethan88 30
+buy CD
+insert CD Olivia33 220
+search CD
+insert CoffeeMaker Ava22 55
+insert Kettle Noah44 28
+search CoffeeMaker
+buy CoffeeMaker
+buy Kettle
+search Juicer
+insert Juicer Sophia11 45
+insert Juicer James88 40
+search Juicer
+sort
+buy Juicer
+sort
+insert Mixer Emma11 50
+insert FoodProcessor Liam33 35
+buy CD
+insert CD Olivia55 230
+search CD
+insert Mixer Ava22 45
+insert FoodProcessor Noah11 30
+search Mixer
+buy Mixer
+buy FoodProcessor
+search HandBlender
+insert HandBlender Mia77 20
+insert HandBlender Jackson33 18
+search HandBlender
+sort
+buy HandBlender
+sort
+insert Microwave Lily11 75
+insert Oven Emma88 150
+buy CD
+insert CD Olivia33 210
+search CD
+insert Microwave Ava22 70
+insert Oven Noah44 130
+search Microwave
+buy Microwave
+buy Oven
+search AirFryer
+insert AirFryer Sophia11 80
+insert AirFryer Ethan88 75
+search AirFryer
+sort
+buy AirFryer
+sort
+insert Dishwasher Lily11 280
+insert TrashCompactor Mia77 150
+buy CD
+insert CD Olivia33 250
+search CD
+insert Dishwasher Ava22 260
+insert TrashCompactor Noah44 120
+search Dishwasher
+buy Dishwasher
+buy TrashCompactor
+search IceMaker
+insert IceMaker Sophia11 90
+insert IceMaker Jackson88 80
+search IceMaker
+sort
+buy IceMaker
+sort
+insert Toaster Lily11 28
+insert WaffleMaker Emma88 40
+buy CD
+insert CD Olivia33 180
+search CD
+insert Toaster Ava22 25
+insert WaffleMaker Noah44 35
+search Toaster
+buy Toaster
+buy WaffleMaker
+search RiceCooker
+insert RiceCooker Mia77 50
+insert RiceCooker Liam33 45
+search RiceCooker
+sort
+buy RiceCooker
+sort
+insert VacuumCleaner Lily11 90
+insert CarpetCleaner Emma88 120
+buy CD
+insert CD Olivia33 220
+search CD
+insert VacuumCleaner Ava22 85
+insert CarpetCleaner Noah44 110
+search VacuumCleaner
+buy VacuumCleaner
+buy CarpetCleaner
+search SteamMop
+insert SteamMop Sophia11 60
+insert SteamMop Ethan88 55
+search SteamMop
+sort
+buy SteamMop
+sort
+insert WasherDryerCombo Lily11 400
+insert SewingMachine Mia77 180
+buy CD
+insert CD Olivia33 350
+search CD
+insert WasherDryerCombo Ava22 380
+insert SewingMachine Noah44 160
+search WasherDryerCombo
+buy WasherDryerCombo
+buy SewingMachine
+search AirPurifier
+insert AirPurifier Sophia11 100
+insert AirPurifier Jackson88 90
+search AirPurifier
+sort
+buy AirPurifier
+sort
+insert Heater Lily11 50
+insert Humidifier Emma88 30
+buy CD
+insert CD Olivia33 120
+search CD
+insert Heater Ava22 45
+insert Humidifier Noah44 25
+search Heater
+buy Heater
+buy Humidifier
+search Dehumidifier
+insert Dehumidifier Sophia11 35
+insert Dehumidifier Ethan88 40
+search Dehumidifier
+sort
+buy Dehumidifier
+sort
+insert CoffeeMaker Lily11 65
+insert EspressoMachine Emma88 120
+buy CD
+insert CD Olivia33 80
+search CD
+insert CoffeeMaker Ava22 55
+insert EspressoMachine Noah44 110
+search CoffeeMaker
+buy CoffeeMaker
+buy EspressoMachine
+search ElectricKettle
+insert ElectricKettle Sophia11 30
+insert ElectricKettle Jackson88 25
+search ElectricKettle
+sort
+buy ElectricKettle
+sort
+insert Blender Lily11 40
+insert FoodProcessor Emma88 35
+buy CD
+insert CD Olivia33 45
+search CD
+insert Blender Ava22 38
+insert FoodProcessor Noah44 32
+search Blender
+buy Blender
+buy FoodProcessor
+search HandMixer
+insert HandMixer Sophia11 18
+insert HandMixer Ethan88 22
+search HandMixer
+sort
+buy HandMixer
+sort
+insert Mixer Lily11 50
+insert Juicer Emma88 45
+buy CD
+insert CD Olivia33 40
+search CD
+insert Mixer Ava22 55
+insert Juicer Noah44 50
+search Mixer
+buy Mixer
+buy Juicer
+search FoodChopper
+insert FoodChopper Sophia11 30
+insert FoodChopper Jackson88 28
+search FoodChopper
+sort
+buy FoodChopper
+sort
+insert Microwave Lily11 70
+insert ToasterOven Emma88 85
+buy CD
+insert CD Olivia33 65
+search CD
+insert Microwave Ava22 75
+insert ToasterOven Noah44 80
+search Microwave
+buy Microwave
+buy ToasterOven
+search SlowCooker
+insert SlowCooker Sophia11 40
+insert SlowCooker Ethan88 45
+search SlowCooker
+sort
+buy SlowCooker
+sort
+insert Dishwasher Lily11 250
+insert TrashCompactor Emma88 120
+buy CD
+insert CD Olivia33 200
+search CD
+insert Dishwasher Ava22 280
+insert TrashCompactor Noah44 150
+search Dishwasher
+buy Dishwasher
+buy TrashCompactor
+search WineCooler
+insert WineCooler Sophia11 180
+insert WineCooler Jackson88 200
+search WineCooler
+sort
+buy WineCooler
+sort
+insert AirFryer Lily11 80
+insert DeepFryer Emma88 60
+buy CD
+insert CD Olivia33 90
+search CD
+insert AirFryer Ava22 75
+insert DeepFryer Noah44 55
+search AirFryer
+buy AirFryer
+buy DeepFryer
+search PressureCooker
+insert PressureCooker Sophia11 40
+insert PressureCooker Ethan88 35
+search PressureCooker
+sort
+buy PressureCooker
+sort
+insert Mixer Lily11 55
+insert StandMixer Emma88 120
+buy CD
+insert CD Olivia33 50
+search CD
+insert Mixer Ava22 60
+insert StandMixer Noah44 110
+search Mixer
+buy Mixer
+buy StandMixer
+search IceCreamMaker
+insert IceCreamMaker Sophia11 70
+insert IceCreamMaker Jackson88 80
+search IceCreamMaker
+sort
+buy IceCreamMaker
+sort
+insert Toaster Lily11 25
+insert SandwichMaker Emma88 18
+buy CD
+insert CD Olivia33 30
+search CD
+insert Toaster Ava22 28
+insert SandwichMaker Noah44 22
+search Toaster
+buy Toaster
+buy SandwichMaker
+search ElectricGrill
+insert ElectricGrill Sophia11 45
+insert ElectricGrill Ethan88 40
+search ElectricGrill
+sort
+buy ElectricGrill
+sort
+insert Blender Lily11 35
+insert HandBlender Emma88 20
+buy CD
+insert CD Olivia33 40
+search CD
+insert Blender Ava22 38
+insert HandBlender Noah44 18
+search Blender
+buy Blender
+buy HandBlender
+search FoodSaver
+insert FoodSaver Sophia11 50
+insert FoodSaver Jackson88 45
+search FoodSaver
+sort
+buy FoodSaver
+sort
+insert VacuumCleaner Lily11 90
+insert SteamMop Emma88 60
+buy CD
+insert CD Olivia33 80
+search CD
+insert VacuumCleaner Ava22 75
+insert SteamMop Noah44
+report

@@ -1,0 +1,33 @@
+insert CD Mary 280
+insert TV John 20000
+buy Book
+insert Book Jacky08 320
+search CD
+insert Book Jack02 300
+insert Book GiGi 180
+search Book
+buy Book
+buy Book
+search Book
+sort
+buy CD
+insert Notebook Davidson 32000
+insert TV Kevin 19000
+search TV
+insert CD John 290
+insert CD Mary 300
+buy Book
+sort
+search Book
+insert TV Bill 19500
+insert TV Roger 15000
+insert TV Ripple 14500
+search TV
+buy TV
+insert TV Bobon 17500
+insert Phone Petter 5000
+sort
+search Phone
+buy Phone
+sort
+report

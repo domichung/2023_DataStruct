@@ -1,0 +1,15 @@
+insert B b 100
+insert A a 100
+buy a
+insert A b 100
+buy a
+insert A c 100
+buy a
+sort
+insert A d 100
+buy a
+insert A e 100
+buy a
+sort
+insert A f 100
+buy a

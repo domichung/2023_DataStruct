@@ -1,0 +1,158 @@
+insert Chair Mark789 50
+insert Lamp Lily22 120
+buy CD
+insert CD David33 280
+search CD
+insert Chair Jenny456 55
+insert Lamp Kevin77 150
+search Chair
+buy Chair
+buy Lamp
+search Desk
+insert Desk Sophia89 300
+insert Desk Mike44 280
+search Desk
+sort
+buy Desk
+sort
+insert Shirt Paul99 25
+insert Shoes Rachel55 80
+buy CD
+insert CD Oliver22 230
+search CD
+insert Shirt Lisa33 20
+insert Shoes Ethan88 70
+search Shirt
+buy Shirt
+buy Shoes
+search Hat
+insert Hat Mia77 15
+insert Hat Jake11 18
+search Hat
+sort
+buy Hat
+sort
+insert Table Tony66 200
+insert Refrigerator Cindy90 1000
+buy CD
+insert CD Patrick25 260
+search CD
+insert Table Grace09 180
+insert Refrigerator Sam76 950
+search Table
+buy Table
+buy Refrigerator
+search Sofa
+insert Sofa Emma55 350
+insert Sofa Daniel88 320
+search Sofa
+sort
+buy Sofa
+sort
+insert Watch Noah11 180
+insert Necklace Zoe44 120
+buy CD
+insert CD Emily66 240
+search CD
+insert Watch Liam33 200
+insert Necklace Ava77 110
+search Watch
+buy Watch
+buy Necklace
+search Ring
+insert Ring Benjamin99 90
+insert Ring Harper22 80
+search Ring
+sort
+buy Ring
+sort
+insert Microwave Stella08 80
+insert Blender Leo55 40
+buy CD
+insert CD Grace33 220
+search CD
+insert Microwave Chloe44 75
+insert Blender Owen88 35
+search Microwave
+buy Microwave
+buy Blender
+search CoffeeMaker
+insert CoffeeMaker Mia99 60
+insert CoffeeMaker Jack77 55
+search CoffeeMaker
+sort
+buy CoffeeMaker
+sort
+insert Backpack Lucas33 40
+insert Umbrella Lily66 20
+buy CD
+insert CD Jackson11 200
+search CD
+insert Backpack Madison44 35
+insert Umbrella Aiden99 18
+search Backpack
+buy Backpack
+buy Umbrella
+search Wallet
+insert Wallet Sofia22 25
+insert Wallet Henry77 15
+search Wallet
+sort
+buy Wallet
+sort
+insert Bed Alex88 500
+insert Mattress Ella11 300
+buy CD
+insert CD Leo44 280
+search CD
+insert Bed Ava88 480
+insert Mattress Noah33 280
+search Bed
+buy Bed
+buy Mattress
+search Pillow
+insert Pillow Grace66 15
+insert Pillow Carter55 12
+search Pillow
+sort
+buy Pillow
+sort
+insert Fan Victoria90 30
+insert AirConditioner Ethan99 300
+buy CD
+insert CD Mia55 250
+search CD
+insert Fan Aria22 25
+insert AirConditioner Logan11 280
+search Fan
+buy Fan
+buy AirConditioner
+search Heater
+insert Heater Jayden33 40
+insert Heater Emma88 35
+search Heater
+sort
+buy Heater
+sort
+insert CarSeat Lucy11 80
+insert Stroller Owen33 120
+buy CD
+insert CD Ava33 200
+search CD
+insert CarSeat Jackson88 75
+insert Stroller Harper99 110
+search CarSeat
+buy CarSeat
+buy Stroller
+search BabyMonitor
+insert BabyMonitor William22 45
+insert BabyMonitor Mia88 40
+search BabyMonitor
+sort
+buy BabyMonitor
+sort
+insert Printer Sophia77 80
+insert Scanner James11 60
+buy CD
+insert CD Olivia55 230
+search CD
